@@ -4,4 +4,4 @@ A short Twine story made to show the viability of branching narratives. This sto
 
 Author: Duncan McDonald
 
-[Play](https://twinery.org/2/#!/stories/0b020fcc-28d4-4957-b4e5-5e02e6c9a2c6/play)
+[Play](https://mcdonaldduncan.github.io/TortoiseAndHare_Twine/The%20Tortoise%20and%20The%20Hare.html)
